@@ -1,0 +1,26 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+.btn btn-secondary btn-sm dropdown-toggle{
+  position:relative;
+  left:200px;
+}
+
+p{
+  color:#395c7b;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
